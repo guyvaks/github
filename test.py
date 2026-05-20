@@ -1,1 +1,1 @@
-print("i love moran")
+print("i love moran!")
